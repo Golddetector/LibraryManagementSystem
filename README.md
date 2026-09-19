@@ -2,7 +2,7 @@
 
 Before running the application, you must update the SQL Server connection string.
 
-1. Open both `Class1.cs` and `DatabaseHelper.cs`.
+1. Open both `Class1.cs` then go to `DatabaseHelper.cs`.
 2. Locate the connection string variable.
 3. Replace the placeholder values with your SQL Server name, database name, username, and password as needed.
 
